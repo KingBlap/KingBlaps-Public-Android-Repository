@@ -1,4 +1,4 @@
-# KingBlap's Public Android Repository 
+# KingBlap's Public Android Repository
 
 Welcome! This repository provides Android Kodi 21.3 builds, Kodi 21.3 backups, and optional apps/utilities to customize your device.
 
