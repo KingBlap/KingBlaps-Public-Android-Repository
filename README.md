@@ -69,3 +69,8 @@ For help or feature requests, visit the [Issues page](https://github.com/KingBla
 
 ## Disclaimer
 Use these resources at your own risk.
+
+## Donate or Tip
+$5 to $10 in BitCoin
+
+![IMG_E0112](https://github.com/user-attachments/assets/8ebfe074-804b-469e-a35b-9cdccac0648f)
