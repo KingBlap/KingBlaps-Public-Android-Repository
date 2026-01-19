@@ -71,6 +71,6 @@ For help or feature requests, visit the [Issues page](https://github.com/KingBla
 Use these resources at your own risk.
 
 ## Donate or Tip
-$5 to $10 in BitCoin
+$5 to $10 in BitCoin if you like the Kodi Setup
 
 ![IMG_E0112](https://github.com/user-attachments/assets/8ebfe074-804b-469e-a35b-9cdccac0648f)
