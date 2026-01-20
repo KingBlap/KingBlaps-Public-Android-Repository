@@ -25,7 +25,7 @@ Before you begin, enable developer mode on your Android device and grant file ma
   3. Navigate to the Repositories tab > KingBlap's Public Android Repository > Releases.
   4. Download the desired assets.
   5. Open Xplore File Manager to access, manage, and install the files.
-  6. In Xplore File Manager, go to the middle menu and select Menu at the top go to more thee seletect configure buttoms and make sure the move buttom is enabled.
+  6. In Xplore File Manager, go to the middle menu and select Menu at the top go to more then select configure buttoms and make sure the move buttom is enabled.
   7. In Xplore File Manager, go to the left panel side and select "Internal Shared Storage". 
   8. Youll need to create two new folders, first click on "Internal Shared Storage" on the left side to highlight all the files under the tab.
   9. Select "New Folder" from the middle menu. Name the folders "Apps" and "Kodi"
